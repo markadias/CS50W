@@ -1,0 +1,35 @@
+h1 {
+	text-align: center;
+	padding-top: 40px;
+}
+
+.jumbotron {
+	background-color: white;
+}
+
+h3 {
+	text-align: center;
+	color: white;
+}
+
+body {
+	background-color: #464e5b;
+}
+
+@media screen and (min-width: 400px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+.hello {
+	margin: 20%;
+}
+
+

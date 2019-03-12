@@ -1,0 +1,36 @@
+#name {
+  color: #ef346f;
+}
+
+a:active {
+  background-color: #ef346f;
+}
+
+table th {
+  font-size: 20px;
+  color: #ef346f;
+}
+table td {
+  font-size: 14px;
+}
+
+.success, .warning {
+  font-family: sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  border: 1px solid;
+  padding: 20px;
+  margin: 20px;
+}
+
+.warning {
+  background-color: #e2685d;
+  border-color: #e2685d;
+}
+
+.success {
+  background-color: lightgreen;
+  border-color: lightgreen;
+}
+
+/*# sourceMappingURL=new.css.map */
